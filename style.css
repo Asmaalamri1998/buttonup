@@ -1,0 +1,40 @@
+.button{
+    border-color: rgb(153, 231, 221);
+    background-color: rgb(249, 247, 247);
+    color: rgb(153, 231, 221);
+    padding: 0px 30px 0px 30px;
+    margin: 10px;
+    border-radius: 40%;
+    padding-top: 5px;
+    padding-bottom:5px ;
+    padding-left: 40px;
+    padding-right: 40px ;
+    border-style: solid;
+
+}
+.button1{
+    border-color: rgb(153, 231, 221);
+    background-color: rgb(153, 231, 221);
+    color: rgb(249, 252, 252);
+    padding: 0px 30px 0px 30px;
+    margin: 10px;
+    border-radius: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+}
+
+.button2{
+    border-color: black;
+    background-color: blue;
+    color: white;
+    padding: 0px 30px 0px 30px;
+    margin: 10px;
+    border-radius: 0%;
+    box-shadow:0 8px 8px 0 black ;
+padding-top: 5px;
+padding-bottom: 5px;
+border-style: solid;
+}
